@@ -118,3 +118,22 @@ Before checking in commits, run `make ci`, which is similar to the `.gitlab-ci.y
 * **Changes**: See the [CHANGELOG](CHANGELOG.md) for the latest updates
 * **Bug Reports**: [File a bug report](https://github.com/mattermost/focalboard/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
 * **Chat**: Join the [~Focalboard community channel](https://community.mattermost.com/core/channels/focalboard)
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson | **PROPRIETARY AND CONFIDENTIAL**
+
+This software is NOT for commercial resale. Testing purposes only.
+
+### 🏢 Enterprise Scale:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- CEO: Alexa Amundson
+
+**Contact:** blackroad.systems@gmail.com
+
+See [LICENSE](LICENSE) for complete terms.
